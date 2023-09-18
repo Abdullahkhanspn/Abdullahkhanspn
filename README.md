@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Abdullahkhanspn.
+- 👀 I’m interested in Android Development and Open Source.
+- 🌱 I’m currently working on  Android and DSA.
+- 💞️ I’m looking to contribute on Android and Java projects.
+- 📫 How to reach me - Go to this link https://www.linkedin.com/in/abdullah-khan-1a4aab278/
