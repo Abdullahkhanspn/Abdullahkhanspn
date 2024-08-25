@@ -1,6 +1,6 @@
 [![An image of @abdullahkhanspn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdullahkhanspn)](https://holopin.io/@abdullahkhanspn)
 # 💫 About Me:
-👋 Hi, I’m Abdullah Khan.<br>👀 I’m interested in Android Development and Open Source.<br>🌱 I’m currently working on Android Development and DSA.<br>💞️ I’m Looking to Contribute on Android and Java projects.<br>🤝 I’m looking for help with new contributors.<br>💬 Ask me about Android Development.
+👋 Hi, I’m Abdullah Khan.<br>👀 I’m interested in Android Development , Full Stack and Open Source.<br>🌱 I’m currently working on Android Development, Full Stack and DSA.<br>💞️ I’m Looking to Contribute on Android, Web, Full Stack and Java projects.<br>🤝 I’m looking for help with new contributors.<br>💬 Ask me about Android Development.
 
 
 ## 🌐 Socials:
