@@ -1,17 +1,36 @@
 [![An image of @abdullahkhanspn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdullahkhanspn)](https://holopin.io/@abdullahkhanspn)
 # 💫 About Me:
-👋 Hi, I’m Abdullah Khan.<br>
-🎓 I’m open for PhD and Research Roles in AI, Speech & Generative Technologies.<br>
-👀 I’m interested in AI/ML, Generative AI, Speech & Audio Systems, Android Development and Open Source.<br>
-🌱 I’m currently working on LLMs, Voice Agents, ASR/TTS Pipelines, Multimodal AI and Advanced Deep Learning.<br>
-🚀 I’ve launched 2+ AI Applications and built my own LLM model from scratch.<br>
-🏢 I’m Founder & Director at BlinkFind Pvt. Ltd. and have collaborated with 3+ AI startups.<br>
-🏆 I’m honored with the Asia AI Award and Winner of Google Startup Day.<br>
-📚 I’ve solved 500+ DSA problems and guided 1000+ students for placements and career growth.<br>
-🧑‍💻 I’m an Open Source Contributor with 400K+ LinkedIn views.<br>
-🤝 I’m looking to collaborate on AI, Research, Android, Full Stack and Open Source projects.<br>
-💬 Ask me about AI/ML, LLMs, Android Development, Research and Career Guidance.<br>
-📫 Reach me at abdullahkhanspn1@gmail.com
+I focus on building AI systems that actually work in production not just demos and optimized models for low compute and cost, I enjoy solving the gap between model capability and real-world reliability.
+
+I’m an AI/ML engineer focused on building production systems especially LLM, AI Models, RAG pipelines, agent workflows and voice-based AI. Recently, I’ve worked on scaling AI products and building LLM-based applications used by real users.
+
+Here are a few facts about me: 
+- Built my own LLM Model from scratch
+- Launched 2+ AI Applications
+- AI ML Engineer of BlinkFind Pvt. Ltd.
+- Collaborated with 3+ AI Startups
+- Honored with the Asia AI Award
+- Trusted by 4,000+ users worldwide
+- Certified by Startup India, StartupUP, MSME, MCA
+- Winner of Google Startup Day
+- Featured Meetups with GeeksforGeeks & Unstop Founders
+- 500+ Problems Solved in DSA
+- Guiding 1000+ Students for Placement and His Bright Carrier
+- 200+ Downloads on Google Play Store on my Apps
+- Open Source Contributor
+- 400K+Views on LinkedIn
+- I am also a YouTuber with 100+ subscribers
+- Ex Android Developer at @QuickSite Guru Australia
+- Ex SWE Intern at @Codeland
+- Ex Microsoft Student Ambassador at @Microsoft
+- Ex Android Developer Intern at @Oasis Infobyte
+- Ex Mobile Application Open Source at @Hacktoberfest
+- Ex Web Developer Intern at @Labdox
+
+Feel free to reach out to me at:
+abdullahkhanspn1@gmail.com
+
+Thank You for Visiting My Profile ❤️
 
 
 ## 🌐 Socials:
